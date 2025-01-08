@@ -172,7 +172,7 @@
 
 /*** Hero Header ***/
 .hero-header {
-    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/bg-hero.jpg);
+    background: linear-gradient(rgba(20, 20, 31, .7), rgba(20, 20, 31, .7)), url(../img/884.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -467,4 +467,21 @@
 .package-item {
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border: 1px solid rgb(214, 214, 214);
+}
+
+.bg-white.text-danger.fw-bold.position-absolute.top-0.start-0.m-3.py-1.px-2 {
+    margin: 15px 0px !important;
+    padding: 2px 5px !important;
+    font-size: 12px;
+    box-shadow: rgba(0, 0, 0, 0.50) 1.95px 1.95px 2.6px;
+}
+
+.bg-white.text-primary.fw-bold.position-absolute.bottom-0.end-0.m-3.py-1.px-2 {
+    margin: 15px 0px !important;
+    padding: 2px 12px !important;
+    box-shadow: rgba(0, 0, 0, 0.70) 1.95px 1.95px 2.6px;
+}
+
+h1.text-primary.m-0 {
+    color: #e95a5a !important;
 }
