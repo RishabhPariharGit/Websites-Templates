@@ -6,6 +6,10 @@
     --dark: #14141F;
 }
 
+p{
+    color: black;
+}
+
 .fw-medium {
     font-weight: 600 !important;
 }
